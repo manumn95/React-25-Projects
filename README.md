@@ -1,1 +1,1 @@
-## This repo consists of 25 react js projects
+## Random color generator
